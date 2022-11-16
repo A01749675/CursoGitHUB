@@ -1,4 +1,4 @@
-# Prueba-Github-Pages
+# Scouting
 
 # Título 1
 ## Título 2
